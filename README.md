@@ -25,8 +25,6 @@ I’m passionate about **industrial automation, smart manufacturing, and digital
 **Programming**  
 ![Structured Text](https://img.shields.io/badge/-Structured_Text-0A66C2?style=for-the-badge)
 ![Ladder Logic](https://img.shields.io/badge/-Ladder_Logic-0078D7?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Industrial Protocols**  
 ![Modbus](https://img.shields.io/badge/-Modbus-0078D7?style=for-the-badge)
@@ -37,10 +35,8 @@ I’m passionate about **industrial automation, smart manufacturing, and digital
 
 **Tools & Design**  
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/-OPC_UA-000000?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
